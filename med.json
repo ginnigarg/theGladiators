@@ -23,7 +23,7 @@
    {
      "Name": "Inj. Dexamethasone Sodium Phosphate 4mg/ml",
      "Units": "2 ml vial/amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Hydrocortisone Sodium Succinate 100mg",
@@ -143,7 +143,7 @@
    {
      "Name": "Inj. Hydocine Butyl Bromide 20mg/ml",
      "Units": "1 ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Paracetamol 150mg/ml",
@@ -213,7 +213,7 @@
    {
      "Name": "Inj. Pottasium Chloride 150 mg/ml",
      "Units": "10ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Ketamine Hydrochloride 10 mg/ml ",
@@ -368,7 +368,7 @@
    {
      "Name": "I.V. Normal Saline (Sodium Chloride 0.9%)",
      "Units": "500 ml Btl",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Multiple Electrolyte P",
