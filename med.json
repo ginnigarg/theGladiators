@@ -8,7 +8,7 @@
    {
      "Name": "Inj. Diclofenac Sodium 25mg/ml",
      "Units": "3 ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Pentazocine Lactate 30mg/ml",
@@ -38,7 +38,7 @@
    {
      "Name": "Inj. Pomethazine Hcl 25mg/ml",
      "Units": "2ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Diclmine Hcl 10mg/ml",
@@ -73,7 +73,7 @@
    {
      "Name": "Inj. Diazepam 5 mg/ml",
      "Units": "2 ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Anti Rabies Vaccine (Cell Culture) 2.5 IU/Dose",
@@ -88,7 +88,7 @@
    {
      "Name": "Inj. Ceftrixone 4 mg",
      "Units": "Vial",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Ceftrixone 250 mg",
@@ -138,7 +138,7 @@
    {
      "Name": "Inj. Frusemide IP 25mg/ml",
      "Units": "2ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Hydocine Butyl Bromide 20mg/ml",
@@ -243,7 +243,7 @@
    {
      "Name": "Inj. Human Insulin Plain 40 IU /ml",
      "Units": "1 ml amp",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Ethamsylate 250mg/2ml",
@@ -308,7 +308,7 @@
    {
      "Name": "Inj. Vecuronium 4mg/2ml vial",
      "Units": "Vial",
-     "Available": "Yes"
+     "Available": "No"
    },
    {
      "Name": "Inj. Atracurium Besylate 10mgml",
