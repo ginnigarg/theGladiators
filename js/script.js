@@ -55,13 +55,8 @@ setInterval(function () {
   }
   // take a breath.. hold event listener from firing for 100ms
 }, 100);*/
-var userName;
 
-function setUserName(var user)
-{
-  alert(user);
-  alert(userName);
-}
+
 (function($) {
 
   $.fn.menumaker = function(options) {
